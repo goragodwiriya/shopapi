@@ -1,0 +1,55 @@
+body {
+  font-family: Athiti, Tahoma, Loma;
+  font-size: 18px;
+}
+body,
+li {
+  line-height: 1.6;
+}
+#logo {
+  padding: 20px 10px;
+}
+.footer {
+  text-align: center;
+  background-color: #eee;
+  padding: 20px 10px;
+}
+.document-list .price {
+  text-align: center;
+  font-size: 2em;
+  color: #259b24;
+}
+.document-list .col4 {
+  border: none;
+}
+.topmenu {
+  background-color: #096CBE;
+  box-shadow: 5px 5px 0 rgba(0, 0, 0, 0.05);
+  width: 100%;
+}
+.topmenu .toplevelmenu>a {
+  color: #fff;
+  text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.1);
+  font-size: 1.2em;
+}
+h2 {
+  text-align: center;
+}
+.product h3 {
+  border-bottom: 2px solid #f5f5f5;
+  margin-bottom: 10px;
+}
+.document-list h3 {
+  height: 3.2em;
+  overflow: hidden;
+  display: block;
+  text-align: center;
+}
+h4 {
+  font-size: 1em;
+  font-weight: bold;
+  color: #096CBE;
+}
+em {
+  font-size: 3em;
+}
